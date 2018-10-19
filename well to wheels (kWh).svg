@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="well to wheels (kWh).svg"
+   inkscape:export-filename="/home/christian/Arbeitsfläche/well to wheels (kWh).png"
+   inkscape:export-xdpi="300.05655"
+   inkscape:export-ydpi="300.05655">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2366"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3841"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3839"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3747"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3745"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3689"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3687"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3637"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3635"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3483"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3481"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2237"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2231"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2225"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2231-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-61"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-7-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-8-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-7-3-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-8-1-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-5-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-6-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-7-3-5-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2366-8-5-6-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="381.03182"
+     inkscape:cy="393.62033"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2132"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="drawing"
+     transform="translate(0,-87)">
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.33054,215.87903 -11.16387,28.00185 5.7383,3.52259 22.45064,-22.26355 z"
+       id="path12049"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#cbc7f2;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.60585,175.46788 14.03165,71.93559 6.26747,-2.61924 -8.04481,-68.568 z"
+       id="path12045"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#c8f2cb;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 108.19769,176.01443 26.43981,71.38904 6.26747,-2.61924 -24.1576,-70.02173 z"
+       id="path2588"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f2d9be;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.489439,142.51466 2.237605,34.47733 8.348126,-1.51082 1.90624,-33.13544 z"
+       id="path12035"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 110.97079,176.02914 H 88.503126"
+       id="path12483"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 126.96687,176.21623 h 8.76436"
+       id="path12485"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 169.06182,175.74851 h 16.0142"
+       id="path12487"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.59143,176.12269 -9.26089,39.75634 18.52178,6.82874 17.02507,-42.56267 z"
+       id="path12047"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 157.95388,113.86091 -2.36245,62.26178 26.94077,-0.74836 7.91367,-59.35135 z"
+       id="path12043"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#cbc7f2;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.03142,113.35444 -5.42557,62.11344 12.25431,0.74835 16.55735,-61.45862 z"
+       id="path12041"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f2d9be;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.727044,176.99199 41.910456,70.41148 6.26747,-2.61924 -39.8298,-69.30306 z"
+       id="path12039"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#c8f2cb;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.4675,112.13837 -4.26981,63.87606 8.64597,0.0973 5.2589,-62.10243 z"
+       id="path12037"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#f2d9be;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.433198,116.90913 5.056241,25.60553 12.491971,-0.16893 6.49267,-30.30091 z"
+       id="path12033"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-5)"
+       d="M 170.56639,158.53636 H 190.0454"
+       id="path3435-1-5-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-5-3)"
+       d="m 171.33271,148.05939 h 18.72453"
+       id="path3435-1-5-1-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-5-1)"
+       d="m 172.52958,136.2728 h 17.53401"
+       id="path3435-1-5-1-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3)"
+       d="m 156.24624,218.40473 h 20.54279"
+       id="path3435-1-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.17912576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-2)"
+       d="M 118.24913,192.02522 H 89.957496"
+       id="path3435-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7)"
+       d="M 133.6393,218.87245 H 105.39348"
+       id="path3435-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-7)"
+       d="m 129.4106,191.93168 h 6.43799"
+       id="path3435-1-5-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-7-3-6)"
+       d="m 134.08561,137.30179 h 9.72075"
+       id="path3435-1-5-4-9-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-3-7-3)"
+       d="m 130.75679,155.82357 h 8.58477"
+       id="path3435-1-5-4-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-61)"
+       d="M 113.70993,160.68788 H 80.464997"
+       id="path3435-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19999945;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-6)"
+       d="M 94.615703,142.1661 H 80.377251"
+       id="path3435-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="M 96.634661,131.50204 H 80.314181"
+       id="path3435"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 174.63688,112.98027 -5.57506,62.76824 -12.81558,42.65622 -18.33939,27.76142"
+       id="path2188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.09864,113.35444 -11.13177,62.86179 10.93998,69.94992"
+       id="path2186"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.939148,113.91571 -0.222988,61.91499 41.19069,70.33545"
+       id="path2182"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.5852778"
+       y="93.335953"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="3.5852778"
+         y="93.335953"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">100 km -</tspan><tspan
+         sodipodi:role="line"
+         x="3.5852778"
+         y="98.797943"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan831">Wie viel muss</tspan><tspan
+         sodipodi:role="line"
+         x="3.5852778"
+         y="104.25993"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1284">in den Tank?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.3820777"
+       y="115.94211"
+       id="text829-2"><tspan
+         sodipodi:role="line"
+         id="tspan827-2"
+         x="3.3820777"
+         y="115.94211"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px">100 km -</tspan><tspan
+         sodipodi:role="line"
+         x="3.3820777"
+         y="121.4041"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan831-4">How much needs</tspan><tspan
+         sodipodi:role="line"
+         x="3.3820777"
+         y="126.86609"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan854">to go into the tank?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.064514"
+       y="96.724945"
+       id="text858"><tspan
+         sodipodi:role="line"
+         id="tspan856"
+         x="54.064514"
+         y="96.724945"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Rohstoff</tspan><tspan
+         sodipodi:role="line"
+         x="54.064514"
+         y="100.36627"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860">raw material</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.840225"
+       y="96.724945"
+       id="text858-4"><tspan
+         sodipodi:role="line"
+         id="tspan856-3"
+         x="86.840225"
+         y="96.724945"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Kohle</tspan><tspan
+         sodipodi:role="line"
+         x="86.840225"
+         y="100.36627"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-2">coal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.58289"
+       y="96.724945"
+       id="text858-1"><tspan
+         sodipodi:role="line"
+         x="108.58289"
+         y="96.724945"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1186">ern. Energien</tspan><tspan
+         sodipodi:role="line"
+         x="108.58289"
+         y="100.36627"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1215">rew. energy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.61774"
+       y="96.764458"
+       id="text858-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan856-6-6"
+         x="159.61774"
+         y="96.764458"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Erdöl</tspan><tspan
+         sodipodi:role="line"
+         x="159.61774"
+         y="100.40578"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-8-9">oil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.205627"
+       y="175.20473"
+       id="text858-5"><tspan
+         sodipodi:role="line"
+         id="tspan856-1"
+         x="54.205627"
+         y="175.20473"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Treibstoff</tspan><tspan
+         sodipodi:role="line"
+         x="54.205627"
+         y="178.84605"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6">fuel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.104027"
+       y="245.17691"
+       id="text858-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2"
+         x="54.104027"
+         y="245.17691"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Bewegung</tspan><tspan
+         sodipodi:role="line"
+         x="54.104027"
+         y="248.81824"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2">movement</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966"
+       cx="7.1863022"
+       cy="199.19632"
+       r="3.4163575" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2"
+       cx="7.1863022"
+       cy="207.55418"
+       r="3.4163575" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.838614"
+       y="198.25394"
+       id="text858-5-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7"
+         x="13.838614"
+         y="198.25394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">Energiegehalt</tspan><tspan
+         sodipodi:role="line"
+         x="13.838614"
+         y="201.31662"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3">energy content</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.838614"
+       y="206.6118"
+       id="text858-5-0-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-4"
+         x="13.838614"
+         y="206.6118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">Energieverlust</tspan><tspan
+         sodipodi:role="line"
+         x="13.838614"
+         y="209.67448"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-6">energy loss</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.6452503"
+       y="219.63329"
+       id="text858-5-0-2-9"><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="219.63329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-8">Jedes Fahrzeug ist Teil einer Energie-</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="222.69597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1067">wandlungskette. Auf dem Weg von der</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="225.75867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1069">Energiequelle zum fahrenden Wagen wird</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="228.82135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1306">in dieser mehrfach Energie umgewandelt.</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="231.88405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1071">Wie viel Energie bei diesen Umwandlungen</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="234.94673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1073">verloren geht, hängt von der jeweiligen</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="238.00943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1075">Technologie ab. Die Höhe der</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="241.07211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1316">CO<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan1085">2</tspan>-Emissionen wird jedoch von der</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="244.29474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1077">Wahl des „Treibstoffes“ bestimmt.</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="247.35744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1079">Doch Vorsicht: Strom und Wasserstoff</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="250.42012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1083">sind nur dann klimafreundlicher, wenn sie aus</tspan><tspan
+         sodipodi:role="line"
+         x="3.6452503"
+         y="253.48282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1329">erneuerbaren Energien gewonnen wurden!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.6699448"
+       y="261.65512"
+       id="text858-5-0-2-9-4"><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="261.65512"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1177">Every vehicle is part of an energy conversion</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="264.7178"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1185">cycle. From energy source to moving vehicle,</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="267.78049"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1187">energy is converted multiple times. How much</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="270.8432"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1189">energy is lost during this transformation</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="273.90588"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1182">depends on the technology used. The amount</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="276.96857"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan2834">of CO<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.6051389px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';baseline-shift:sub;stroke-width:0.26458332px"
+   id="tspan1085-8">2</tspan> emissions, however, depends on the</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="280.19119"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1195">“fuel” choise. Be aware: electricity and</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="283.25388"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1197">hydrogen are only climate friendly when they</tspan><tspan
+         sodipodi:role="line"
+         x="3.6699448"
+         y="286.31659"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1199">are derived from renewable energy sources.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.602035"
+       y="293.3291"
+       id="text858-5-0-2-9-2"><tspan
+         sodipodi:role="line"
+         x="3.602035"
+         y="293.3291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1083-1">Quelle: WELL-TO-WHEELS Report Version 4.1 European Commission, 2014</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="126.10043"
+       y="287.51346"
+       id="text829-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-8"
+         x="126.10043"
+         y="287.51346"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">100 km fahren</tspan><tspan
+         sodipodi:role="line"
+         x="126.10043"
+         y="292.97546"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan831-9">100 km travel</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328"
+       cx="97.304565"
+       cy="113.47285"
+       r="12.152809" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2"
+       cx="137.78299"
+       cy="113.47285"
+       rx="11.654104"
+       ry="11.654103" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-0"
+       cx="174.48637"
+       cy="113.47285"
+       rx="16.359625"
+       ry="16.359623" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-6-5-6"
+       cx="126.816"
+       cy="175.79051"
+       r="6.1060882" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-8"
+       cx="169.11343"
+       cy="175.79051"
+       rx="13.467441"
+       ry="13.46744" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2"
+       cx="129.32397"
+       cy="191.91325"
+       r="2.5212717" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1"
+       cx="130.65874"
+       cy="155.87354"
+       r="1.8433867" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-8"
+       cx="134.00905"
+       cy="137.18196"
+       r="3.4463105" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-8-4"
+       cx="155.8607"
+       cy="218.79033"
+       r="9.7986765" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-8-4-0"
+       cx="96.749077"
+       cy="142.08655"
+       r="6.2660522" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4"
+       cx="96.875259"
+       cy="131.50998"
+       r="0.94854343" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-6"
+       cx="172.54889"
+       cy="136.24516"
+       r="0.82909304" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-6-7"
+       cx="171.48958"
+       cy="148.07715"
+       r="1.3385522" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2"
+       cx="96.75309"
+       cy="160.66231"
+       r="0.52739906" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7"
+       cx="106.1804"
+       cy="191.98763"
+       r="0.55900687" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.33338565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7-2-7"
+       cx="133.63065"
+       cy="218.85728"
+       r="0.23330718" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="87.144524"
+       y="175.00681"
+       id="text858-5-0-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5"
+         x="87.144524"
+         y="175.00681"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:end;text-anchor:end;stroke-width:0.26458332px">Strom</tspan><tspan
+         sodipodi:role="line"
+         x="87.144524"
+         y="178.06949"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0">electricity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.79056"
+       y="175.00433"
+       id="text858-5-0-2-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0"
+         x="136.79056"
+         y="175.00433"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Wasserstoff</tspan><tspan
+         sodipodi:role="line"
+         x="136.79056"
+         y="178.06702"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7">hydrogen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="185.63298"
+       y="175.00433"
+       id="text858-5-0-2-0-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2"
+         x="185.63298"
+         y="175.00433"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px">Diesel</tspan><tspan
+         sodipodi:role="line"
+         x="185.63298"
+         y="178.06702"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4">diesel</tspan></text>
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.32544538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7-2-4"
+       cx="170.61266"
+       cy="158.53441"
+       r="0.23727731" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="185.66251"
+       y="96.354179"
+       id="text858-5-0-2-0-2-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3"
+         x="185.66251"
+         y="96.354179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">Energie in kWh</tspan><tspan
+         sodipodi:role="line"
+         x="185.66251"
+         y="99.41687"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9">energy in kWh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.569794"
+       y="129.52943"
+       id="text858-5-0-2-0-2-2-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9"
+         x="78.569794"
+         y="129.52943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px">3,3 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="78.569794"
+         y="131.93584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan1750">Bergwerk</tspan><tspan
+         sodipodi:role="line"
+         x="78.569794"
+         y="134.34224"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7">mine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.476723"
+       y="140.68547"
+       id="text858-5-0-2-0-2-2-5-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1"
+         x="78.476723"
+         y="140.68547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px">21,1 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="78.476723"
+         y="143.09187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan1750-4">Kraftwerk</tspan><tspan
+         sodipodi:role="line"
+         x="78.476723"
+         y="145.49828"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7">power plant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.509163"
+       y="158.65263"
+       id="text858-5-0-2-0-2-2-5-5-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0"
+         x="78.509163"
+         y="158.65263"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px">2 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="78.509163"
+         y="161.05904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan1750-4-4">Stromnetz</tspan><tspan
+         sodipodi:role="line"
+         x="78.509163"
+         y="163.46544"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2">power grid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.094109"
+       y="190.43538"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2"
+         x="88.094109"
+         y="190.43538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px">2,2 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="88.094109"
+         y="192.84178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0">Batterie</tspan><tspan
+         sodipodi:role="line"
+         x="88.094109"
+         y="195.24818"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6">battery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.15429"
+       y="217.10912"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3"
+         x="103.15429"
+         y="217.10912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px">0,5 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="103.15429"
+         y="219.51552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7">Elektromotor</tspan><tspan
+         sodipodi:role="line"
+         x="103.15429"
+         y="221.92192"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5">electric motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="137.5907"
+       y="190.07687"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8"
+         x="137.5907"
+         y="190.07687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">8,6 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="137.5907"
+         y="192.48328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8">Brennstoffzelle</tspan><tspan
+         sodipodi:role="line"
+         x="137.5907"
+         y="194.88968"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8">fuel cell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.65617"
+       y="216.8275"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6"
+         x="178.65617"
+         y="216.8275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">33,6 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="178.65617"
+         y="219.2339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9">Verbrennungsmotor</tspan><tspan
+         sodipodi:role="line"
+         x="178.65617"
+         y="221.6403"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4">combustion engine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="192.28496"
+       y="146.10895"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6-8"
+         x="192.28496"
+         y="146.10895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">5 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="192.28496"
+         y="148.51535"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9-9">Raffinerie</tspan><tspan
+         sodipodi:role="line"
+         x="192.28496"
+         y="150.92175"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4-7">rafinery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="192.29466"
+       y="156.96025"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6-8-1"
+         x="192.29466"
+         y="156.96025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">0,8 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="192.29466"
+         y="159.36665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9-9-4">Verteilung</tspan><tspan
+         sodipodi:role="line"
+         x="192.29466"
+         y="161.77306"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4-7-8">distribution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="192.28496"
+       y="134.22786"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6-8-3"
+         x="192.28496"
+         y="134.22786"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">3,1 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="192.28496"
+         y="136.63426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9-9-9">Förderung</tspan><tspan
+         sodipodi:role="line"
+         x="192.28496"
+         y="139.04066"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4-7-2">extraction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="141.41962"
+       y="154.33989"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5-9-33"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6-8-4"
+         x="141.41962"
+         y="154.33989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">6,4 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="141.41962"
+         y="156.74629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9-9-6">Verteilung</tspan><tspan
+         sodipodi:role="line"
+         x="141.41962"
+         y="159.15269"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4-7-7">distribution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.94027781px;line-height:120.00000477%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.96365"
+       y="135.25795"
+       id="text858-5-0-2-0-2-2-5-5-2-3-0-7-3-5-9-33-7"><tspan
+         sodipodi:role="line"
+         id="tspan856-1-2-7-5-0-2-3-9-1-0-2-3-8-6-8-4-4"
+         x="145.96365"
+         y="135.25795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px">12 kWh</tspan><tspan
+         sodipodi:role="line"
+         x="145.96365"
+         y="137.66435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1750-4-4-0-7-8-9-9-6-7">Elektrolyse</tspan><tspan
+         sodipodi:role="line"
+         x="145.96365"
+         y="140.07076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan2016">(Wasserstoff)</tspan><tspan
+         sodipodi:role="line"
+         x="145.96365"
+         y="142.47714"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-6-2-3-0-7-4-9-7-7-2-6-5-8-4-7-7-0">electrolysis</tspan><tspan
+         sodipodi:role="line"
+         x="145.96365"
+         y="144.88354"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan2018">(hydrogen)</tspan></text>
+    <g
+       id="g2216"
+       transform="translate(-2.4984743,81.552631)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4847"
+         d="m 141.60518,171.55367 c 1.71714,0.12288 2.93538,0.40224 3.42146,0.78459 0.29616,0.23296 0.36191,0.46 0.70683,2.44045 l 0.26474,1.52008 0.002,7.0399 c 0.002,6.34214 0.0177,7.0336 0.15563,6.97634 0.36461,-0.15134 0.47237,-0.14725 0.53668,0.0203 0.0494,0.1287 -0.032,0.25894 -0.3052,0.48829 l -0.37255,0.31278 -0.009,2.53526 c -0.0102,2.87337 -0.15581,4.59614 -0.43807,5.18313 -0.10374,0.21575 -0.46484,0.69048 -0.80244,1.05494 l -0.61382,0.66267 -1.22294,0.14641 c -0.67262,0.0805 -1.79965,0.14641 -2.50451,0.14641 -1.33826,0 -3.44157,-0.2139 -3.75552,-0.38192 -0.18729,-0.10023 -0.90045,-0.90838 -1.26403,-1.43237 -0.26931,-0.38815 -0.39783,-1.2738 -0.52862,-3.64288 -0.0701,-1.26968 -0.076,-2.32241 -0.0171,-3.02586 0.0497,-0.59332 0.0742,-1.1229 0.0544,-1.17684 -0.0198,-0.0539 -0.21102,-0.22789 -0.42494,-0.38657 -0.39873,-0.29576 -0.44803,-0.39811 -0.3024,-0.62789 0.0691,-0.10904 0.13516,-0.10515 0.38201,0.0225 l 0.29845,0.15434 -0.003,-6.98545 c -0.002,-6.622 0.008,-7.04923 0.20126,-8.21132 0.31645,-1.90288 0.469,-2.54321 0.65481,-2.74854 0.54816,-0.6057 3.4907,-1.04011 5.88491,-0.86878 z"
+         style="fill:#000000;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4845"
+         d="m 143.90676,172.5161 c 0,0.13008 0.26403,0.37649 0.47522,0.44352 0.17921,0.0569 0.2947,0.23075 0.52427,0.78936 l 0.12091,0.29421 0.033,-0.34879 c 0.052,-0.54961 -0.11923,-0.86241 -0.58878,-1.07554 -0.47397,-0.21513 -0.56463,-0.23164 -0.56463,-0.10276 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4843"
+         d="m 136.24343,172.681 c -0.27571,0.13874 -0.47646,0.57422 -0.47646,1.03358 0,0.15376 0.0441,0.27957 0.0981,0.27957 0.0539,0 0.0982,-0.0772 0.0984,-0.17162 5.5e-4,-0.27823 0.3609,-0.788 0.6699,-0.94779 0.15766,-0.0815 0.3129,-0.21662 0.34497,-0.30019 0.047,-0.1226 0.007,-0.13958 -0.20878,-0.0879 -0.14689,0.0352 -0.38365,0.12268 -0.52614,0.19438 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4841"
+         d="m 137.43868,175.02326 c -0.50992,0.0853 -0.94431,0.1722 -0.9653,0.19319 -0.0494,0.0494 0.67633,4.42173 0.7544,4.54471 0.0371,0.0585 0.64465,0.0425 1.62644,-0.0427 1.34126,-0.11651 1.79363,-0.11625 3.13823,0.002 0.86408,0.0758 1.59955,0.10935 1.63437,0.0745 0.0608,-0.0609 0.77028,-4.16805 0.77028,-4.45936 0,-0.15156 -0.60153,-0.29145 -1.96139,-0.45614 -1.02543,-0.1242 -3.88569,-0.0417 -4.99703,0.14412 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4839"
+         d="m 144.76692,179.97788 c -0.0157,0.18899 0.0237,0.33821 0.096,0.36379 0.0884,0.0313 0.12175,-0.10256 0.1196,-0.47968 -0.003,-0.57057 -0.16595,-0.48313 -0.21562,0.11589 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4837"
+         d="m 135.89424,180.3325 c 0.0224,0.0224 0.10983,0.0143 0.19421,-0.0181 0.12508,-0.048 0.13513,-0.11637 0.0544,-0.37007 -0.18642,-0.58612 -0.2235,-0.60478 -0.25646,-0.12904 -0.0181,0.262 -0.0146,0.49473 0.008,0.51717 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4835"
+         d="m 144.39837,181.05047 c -0.0593,0.22018 -0.0927,1.05489 -0.0773,1.93259 l 0.027,1.54501 0.38256,0.0794 c 0.21041,0.0437 0.39531,0.0666 0.4109,0.0511 0.0156,-0.0156 -0.005,-0.88001 -0.0449,-1.92094 -0.0574,-1.48292 -0.10389,-1.91199 -0.21475,-1.98214 -0.26191,-0.16571 -0.37858,-0.0945 -0.48348,0.29505 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4833"
+         d="m 135.97961,180.74869 c -0.0971,0.0615 -0.14917,0.57096 -0.20294,1.98441 -0.0398,1.04589 -0.0649,1.91334 -0.0558,1.92767 0.009,0.0143 0.18867,-0.01 0.39908,-0.0533 l 0.38256,-0.0794 0.0298,-1.56483 c 0.0378,-1.98586 -0.0921,-2.50651 -0.55268,-2.21455 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4831"
+         d="m 144.33901,185.33499 c -0.12617,0.67255 0.0365,2.22029 0.40034,3.81011 0.19742,0.86256 0.37771,1.58705 0.40063,1.60998 0.0229,0.0229 0.0417,-1.21667 0.0417,-2.75466 v -2.79635 l -0.22065,-0.10642 c -0.4101,-0.19778 -0.55041,-0.14424 -0.622,0.23734 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4829"
+         d="m 135.91869,185.09177 -0.24979,0.11381 v 2.79559 c 0,1.53757 0.0224,2.77318 0.0498,2.74578 0.0274,-0.0274 0.21023,-0.72982 0.40631,-1.56094 0.29034,-1.23069 0.36506,-1.7614 0.40263,-2.8596 0.0449,-1.31241 0.0407,-1.34845 -0.15652,-1.34845 -0.11146,0 -0.31505,0.0512 -0.45244,0.11381 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4827"
+         d="m 137.0148,190.72882 -0.74316,0.0628 -0.16045,0.59915 c -0.10353,0.38661 -0.14956,0.87493 -0.12974,1.37655 l 0.0307,0.77741 0.76613,0.27741 c 2.12055,0.76781 5.13805,0.77367 7.26083,0.0141 0.38568,-0.13801 0.75471,-0.29393 0.82007,-0.3465 0.1504,-0.12099 0.0713,-1.47627 -0.12876,-2.20597 l -0.13983,-0.51001 -0.56257,-0.0354 c -1.04614,-0.0657 -6.26476,-0.0729 -7.01322,-0.01 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4825"
+         d="m 145.138,197.38963 c -0.08,0.4262 -0.56053,0.97387 -1.38719,1.58085 -0.34127,0.25057 -0.59746,0.49285 -0.56932,0.5384 0.0282,0.0455 -0.0429,0.21489 -0.15784,0.37634 -0.11496,0.16145 -0.16448,0.29354 -0.11006,0.29354 0.0544,0 0.12624,-0.0441 0.15957,-0.0981 0.0333,-0.0539 0.19027,-0.0981 0.34874,-0.0981 0.22292,0 0.45408,-0.15764 1.02138,-0.69652 0.76085,-0.72273 0.7589,-0.71878 0.87833,-1.77974 0.0608,-0.54022 -0.0866,-0.63393 -0.18361,-0.11673 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4823"
+         d="m 135.66591,198.30434 c 0.12994,0.48253 1.37415,1.67828 1.74631,1.67828 0.12704,0 0.32572,0.0507 0.44151,0.11268 0.20757,0.11109 0.20818,0.10906 0.0426,-0.14365 -0.0924,-0.14099 -0.16795,-0.31991 -0.16795,-0.39761 0,-0.0777 -0.30784,-0.36948 -0.68408,-0.6484 -0.83838,-0.62152 -1.13665,-0.96628 -1.29922,-1.50177 l -0.1252,-0.41237 -0.0297,0.46069 c -0.0163,0.25338 0.0178,0.63685 0.0757,0.85215 z"
+         style="fill:#ffffff;stroke-width:0.0980697" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.050568"
+       y="116.30071"
+       id="text2054"><tspan
+         sodipodi:role="line"
+         id="tspan2052"
+         x="97.050568"
+         y="116.30071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">40,8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="137.76183"
+       y="116.33458"
+       id="text2054-6"><tspan
+         sodipodi:role="line"
+         id="tspan2052-6"
+         x="137.76183"
+         y="116.33458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">39,1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="174.17029"
+       y="116.87098"
+       id="text2054-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan2052-6-2"
+         x="174.17029"
+         y="116.87098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">54,1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.81944466px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.92381"
+       y="178.74503"
+       id="text2054-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2052-6-7"
+         x="168.92381"
+         y="178.74503"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">45,2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="126.90489"
+       y="177.21715"
+       id="text2054-63-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-7"
+         x="126.90489"
+         y="177.21715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">20,7</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 62.344264,103.11366 v 65.87715"
+       id="path2220"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-8)"
+       d="m 62.25072,181.52802 v 57.68803"
+       id="path2220-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="130.22449"
+       y="96.724945"
+       id="text858-1-7"><tspan
+         sodipodi:role="line"
+         x="130.22449"
+         y="96.724945"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1186-7">ern. Energien</tspan><tspan
+         sodipodi:role="line"
+         x="130.22449"
+         y="100.36627"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan860-8-4">rew. energy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.774483"
+       y="143.50471"
+       id="text2054-63-1-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-7-6"
+         x="96.774483"
+         y="143.50471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ffffff;stroke-width:0.26458332px">21,2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.09795"
+       y="138.23288"
+       id="text2054-63-1-1-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-7-6-7"
+         x="134.09795"
+         y="138.23288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ffffff;stroke-width:0.26458332px">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="129.41287"
+       y="192.84741"
+       id="text2054-63-1-1-0-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-7-6-7-8"
+         x="129.41287"
+         y="192.84741"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ffffff;stroke-width:0.26458332px">8,6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="155.84306"
+       y="221.17511"
+       id="text2054-63-1-1-0-4-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-7-6-7-8-8"
+         x="155.84306"
+         y="221.17511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ffffff;stroke-width:0.26458332px">33,6</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-6-5-61"
+       cx="96.837509"
+       cy="175.79051"
+       r="4.2429333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.853386"
+       y="176.96526"
+       id="text2054-63-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-94"
+         x="96.853386"
+         y="176.96526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">14,3</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.2104,113.51146 -4.60258,62.35398 25.29903,70.30071"
+       id="path1296"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-6-5"
+       cx="112.66351"
+       cy="175.79051"
+       r="4.2429333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.67934"
+       y="176.96526"
+       id="text2054-63-1"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4"
+         x="112.67934"
+         y="176.96526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">14,3</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-6"
+       cx="117.22789"
+       cy="113.47285"
+       r="4.8731847" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="117.24378"
+       y="114.6476"
+       id="text2054-63"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3"
+         x="117.24378"
+         y="114.6476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">16,3</tspan></text>
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-8"
+       cx="113.73773"
+       cy="160.66231"
+       r="0.52739906" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.33338568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7-2"
+       cx="128.05482"
+       cy="218.85728"
+       r="0.23330717" />
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.33338568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7-2-2"
+       cx="121.9068"
+       cy="218.85728"
+       r="0.23330717" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1328-2-6-5-0"
+       cx="137.91058"
+       cy="246.00133"
+       r="3.4194093" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="137.92435"
+       y="246.71677"
+       id="text2054-63-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan2052-3-4-9"
+         x="137.92435"
+         y="246.71677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.26458332px">11,6</tspan></text>
+    <circle
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path966-2-2-1-4-2-7-6"
+       cx="118.35143"
+       cy="191.98763"
+       r="0.55900693" />
+  </g>
+</svg>
